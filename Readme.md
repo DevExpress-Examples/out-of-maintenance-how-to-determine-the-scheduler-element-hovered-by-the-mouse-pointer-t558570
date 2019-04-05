@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [MainWindow.xaml](./CS/Scheduler_HitInfo/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/Scheduler_HitInfo/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/Scheduler_HitInfo/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/Scheduler_HitInfo/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/Scheduler_HitInfo/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/Scheduler_HitInfo/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to determine the scheduler element hovered by the mouse pointer
 
